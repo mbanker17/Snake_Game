@@ -1,6 +1,4 @@
 
-
- 			save this as script.js
 //We are starting with a function to run the entire game...
 (function() {
     //JavaScript checks for canvas
